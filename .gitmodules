@@ -1,0 +1,12 @@
+[submodule "Festival-ui"]
+	path = Festival-ui
+	url = git@github.com:tom-sartori/Festival-ui.git
+[submodule "Festival-srv"]
+	path = Festival-srv
+	url = git@github.com:tom-sartori/Festival-srv.git
+[submodule "Festival-api"]
+	path = Festival-api
+	url = git@github.com:tom-sartori/Festival-api.git
+[submodule "Festival-ios"]
+	path = Festival-ios
+	url = git@github.com:tom-sartori/Festival-ios.git
